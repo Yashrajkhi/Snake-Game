@@ -1,6 +1,6 @@
 # 🐍 Snake Game — Java Swing
 
-A clean, fully featured Snake Game built in Java using Swing. No external libraries required — just the JDK.
+A clean, fully featured Snake Game built in Java using Swing.
 
 ![Java](https://img.shields.io/badge/Java-17%2B-orange?style=flat-square&logo=java)
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
@@ -44,7 +44,7 @@ A clean, fully featured Snake Game built in Java using Swing. No external librar
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/SnakeGame.git
+git clone https://github.com/Yashrajkhi/SnakeGame.git
 cd SnakeGame
 ```
 
