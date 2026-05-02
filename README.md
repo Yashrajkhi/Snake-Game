@@ -44,8 +44,8 @@ A clean, fully featured Snake Game built in Java using Swing.
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/Yashrajkhi/SnakeGame.git
-cd SnakeGame
+git clone https://github.com/Yashrajkhi/Snake-Game.git
+cd Snake-Game
 ```
 
 ### Build & Run
@@ -65,7 +65,7 @@ build.bat
 ```bash
 mkdir out
 javac -d out $(find src -name "*.java")   # Linux/Mac
-java -cp out com.snakegame.Main
+java -cp out com.snake-game.Main
 ```
 
 ---
@@ -85,9 +85,9 @@ java -cp out com.snakegame.Main
 ## 📁 Project Structure
 
 ```
-SnakeGame/
+Snake-Game/
 ├── src/
-│   └── com/snakegame/
+│   └── com/snake-game/
 │       ├── Main.java        # Entry point
 │       ├── GameFrame.java   # JFrame window
 │       ├── GamePanel.java   # Game loop, rendering, input
